@@ -1,5 +1,5 @@
 # Xerrades Anteriors
-Les xerrades anteriors a octubre es resumeixen en aquest document, es va perdre l'arxiu web on les teníem.
+Les xerrades anteriors a octubre de 2017 es resumeixen en aquest document, es va perdre l'arxiu web on les teníem.
 
 ### 1ª Xerrada : Introducció a Docker, per Franc Rodriguez
 ### 2ª Xerrada : Atacs DDOS, per David Julian
