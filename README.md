@@ -18,11 +18,11 @@ Aquest espai a github es fara servir per organitzar:
 
 ## Xerrades 
 
-Propera trobada **3/2017**
+Propera trobada **30/11/2017**
 
 Xerrades realitzades i planificació de les properes
-- [Xerrades anteriors a Novembre 2017](xerrades/anteriors) [Vàries xeerrades]
-- [30/11/2017] [Encara per definir, anima't i fes una proposta!]
+- [Xerrades anteriors a Novembre 2017](xerrades/anteriors) 
+- [30/11/2017] **Encara per definir, anima't i fes una proposta!**
 
 
 -----------------
@@ -32,14 +32,13 @@ Xerrades realitzades i planificació de les properes
 
 Tens ganes de fer una xerrada? Anima't! Qualsevol proposta serà ben rebuda
 
-**Proposa la xerrada** i [obrint una issue](https://github.com/floss-talks-andorra/xerrades/issues)
+**Proposa la xerrada** [obrint una issue](https://github.com/floss-talks-andorra/xerrades/issues)
 
-O bé, si t'interessa que es tracti algun tema pots proposar-lo, i potser algú s'anima a fer-ne una xerrada  [obre una issue](https://github.com/pygrn/xerrades/issues/new)
+O bé, si t'interessa que es tracti algun tema, pots proposar-lo i potser algú s'anima a fer-ne una xerrada  [obre una issue](https://github.com/pygrn/xerrades/issues/new)
 
 **Entre tots votarem totes les propostes** i les planificarem per les futures trobades.
 
 
 [Propostes fetes](https://github.com/floss-talks-andorra/xerrades/issues)
-
 [Xerrades realitzades](xerrades/)
 
