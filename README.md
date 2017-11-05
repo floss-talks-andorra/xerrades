@@ -1,7 +1,7 @@
 # FLOSS (Free Libre Open Source Systems) Talks Andorra
 
 Grup de persones amb interessos en el món de la tecnologia, en concret en els sistemes FLOSS i programari lliure.
-La finalitat del grup és compartir coneixement mitjançant xerrades periódiques així com posar en contacte a les persones
+La finalitat del grup és compartir coneixement mitjançant xerrades periòdiques així com posar en contacte a les persones
 interesades en la temàtica.
 
 El grup i l'organització no estan vinculats a cap empresa, tothom està convidat a participar, tant com assistent o presentant
