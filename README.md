@@ -7,7 +7,7 @@ interesades en la temàtica.
 El grup i l'organització no estan vinculats a cap empresa, tothom està convidat a participar, tant com assistent o presentant
 una xerrada.
 
-Les trobades es fan l'últim dijous de cada mes, en cas de no haver-hi cap xerrada planificada s'acostuma a anar a pendre algo algun bar de la zona
+Les trobades es fan l'últim dijous de cada mes, en cas de no haver-hi cap xerrada planificada s'acostuma a anar a prendre algo algun bar de la zona
 i xerrar de forma distesa entre els assistents.
 
 Aquest espai a github es fara servir per organitzar:
