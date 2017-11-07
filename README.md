@@ -44,8 +44,12 @@ O bé, si t'interessa que es tracti algun tema, pots proposar-lo i potser algú 
 [Xerrades realitzades](xerrades/)
 
 
+-----------------
+
+
 ## Grup de Telegram
 
 Disposem d'un grup a Telegram com a lloc de trobada virtual, per organitzar les trobades i també per parlar de qualsevol tema relatiu al grup.
+
 [FLOSS Talks Andorra a Telegram](https://t.me/flosstalks)
 
