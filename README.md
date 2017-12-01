@@ -21,7 +21,7 @@ Aquest espai a github es fara servir per organitzar:
 
 Propera trobada **Per Definir**
 
-Xerrades realitzades i planificació de les properes
+Xerrades realitzades:
 - [Xerrades anteriors a Novembre 2017](https://github.com/floss-talks-andorra/xerrades/tree/master/xerrades/anteriors) 
 
 
@@ -30,7 +30,7 @@ Xerrades realitzades i planificació de les properes
 
 ## Proposa una xerrada
 
-Tens ganes de fer una xerrada? Anima't! Qualsevol proposta serà ben rebuda
+Tens ganes de fer una xerrada? Anima't! Qualsevol proposta serà ben rebuda.
 
 **Proposa la xerrada** [obrint una issue](https://github.com/floss-talks-andorra/xerrades/issues)
 
@@ -42,6 +42,16 @@ O bé, si t'interessa que es tracti algun tema, pots proposar-lo i potser algú 
 [Propostes fetes](https://github.com/floss-talks-andorra/xerrades/issues)
 
 [Xerrades realitzades](https://github.com/floss-talks-andorra/xerrades/tree/master/xerrades/anteriors)
+
+
+-----------------
+
+
+## Localitizacions
+
+Espais cedits per a fer xerrades, es pot proposar nous llocs de trobada.
+
+[TECOB] (http://www.tecob.com) [Mapa](https://goo.gl/maps/N65JhbjnNVp)
 
 
 -----------------
