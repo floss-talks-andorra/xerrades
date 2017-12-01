@@ -51,7 +51,7 @@ O bé, si t'interessa que es tracti algun tema, pots proposar-lo i potser algú 
 
 Espais cedits per a fer xerrades, es pot proposar nous llocs de trobada.
 
-[TECOB] (http://www.tecob.com) [Mapa](https://goo.gl/maps/N65JhbjnNVp)
+[TECOB](http://www.tecob.com) [Mapa](https://goo.gl/maps/N65JhbjnNVp)
 
 
 -----------------
