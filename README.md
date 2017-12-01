@@ -22,7 +22,7 @@ Aquest espai a github es fara servir per organitzar:
 Propera trobada **Per Definir**
 
 Xerrades realitzades i planificació de les properes
-- [Xerrades anteriors a Novembre 2017](xerrades/anteriors) 
+- [Xerrades anteriors a Novembre 2017](https://github.com/floss-talks-andorra/xerrades/tree/master/xerrades/anteriors) 
 
 
 -----------------
@@ -41,7 +41,7 @@ O bé, si t'interessa que es tracti algun tema, pots proposar-lo i potser algú 
 
 [Propostes fetes](https://github.com/floss-talks-andorra/xerrades/issues)
 
-[Xerrades realitzades](xerrades/)
+[Xerrades realitzades](https://github.com/floss-talks-andorra/xerrades/tree/master/xerrades/anteriors)
 
 
 -----------------
